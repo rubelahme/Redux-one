@@ -1,0 +1,42 @@
+.expand {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: whitesmoke;
+  box-shadow: 0px 8px 5px #888888;
+  .menu-4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 10px 10px 10px 10px;
+    color: whitesmoke !important;
+    background: linear-gradient(60deg, black, grey);
+  }
+  .number {
+    font-weight: 900;
+    color: red;
+  }
+  .menu-4:hover {
+    color: hotpink !important;
+  }
+  .menu {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(60deg, red, yellow, yellow, red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: black !important;
+    font-weight: 700;
+  }
+  .menu:hover {
+    color: hotpink !important;
+  }
+  .menu-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(60deg, red, yellow, yellow, red);
+    background-clip: text;
+    font-weight: 700;
+    -webkit-background-clip: text;
+    color: black !important;
+  }
+  .menu-1:hover {
+    color: hotpink !important;
+  }
+}
