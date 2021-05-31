@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBiie6djSpBI6mE2Ld5m-WBcH9aiTfQ-k4",
-  authDomain: "context-api-d57cd.firebaseapp.com",
-  projectId: "context-api-d57cd",
-  storageBucket: "context-api-d57cd.appspot.com",
-  messagingSenderId: "534008325993",
-  appId: "1:534008325993:web:444a845a66e80697ffbff8",
+  apiKey: "AIzaSyBn3qVxbp1Gj_BQbn1eO4CkgNFJmFUKSiQ",
+  authDomain: "assinmant.firebaseapp.com",
+  projectId: "assinmant",
+  storageBucket: "assinmant.appspot.com",
+  messagingSenderId: "551242487988",
+  appId: "1:551242487988:web:597a42b44b709badbb9fe1",
 };
 
 export default firebaseConfig;
